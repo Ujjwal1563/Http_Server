@@ -30,3 +30,12 @@
 1717585551966: /search?search_query=Javascript%20tutorials New Req Received
 1717585700569: /search?search_query=Javascript+tutorials+for+advance New Req Received
 1717585700728: /favicon.ico New Req Received
+1717599102753: GET /signup New Req Received
+1717599200495: GET / New Req Received
+1717599200626: GET /favicon.ico New Req Received
+1717599206197: GET /about New Req Received
+1717599206312: GET /favicon.ico New Req Received
+1717599212924: GET /signup New Req Received
+1717599213044: GET /favicon.ico New Req Received
+1717599218734: GET /search?search_query=Javascript+tutorials+for+advance New Req Received
+1717599218852: GET /favicon.ico New Req Received
